@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722323609762",
+    "project_id": "boardgames-1d535",
+    "storage_bucket": "boardgames-1d535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722323609762:android:5cb4e97248d85f83aa1ffb",
+        "android_client_info": {
+          "package_name": "com.itolstoy.boardgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722323609762-30idkekbdfkoj4r58cd94f25ns0sdet3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itolstoy.boardgames",
+            "certificate_hash": "83c1d7d2c6dd70cbf56bf14d7d9cc1eb1ae1d0b5"
+          }
+        },
+        {
+          "client_id": "722323609762-fd5e6923p6edutcr0a2f3ug849c747u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoKB-qNoANeWgDH8CB-p8h_UB52Pg_AY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722323609762-fd5e6923p6edutcr0a2f3ug849c747u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
